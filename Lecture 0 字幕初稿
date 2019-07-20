@@ -5,47 +5,47 @@ This is CS50, Harvard University's introduction
 
 2
 00:00:53,566 --> 00:00:55,891
-计算机科学和编程艺术的
+计算机科学和编程艺术
 to the intellectual enterprises of computer science
 
 3
 00:00:55,892 --> 00:00:57,203
-入门课程
+入门课
 and the art of programming.
 
 4
 00:00:57,204 --> 00:00:58,541
-我叫David Malan
+我叫 David Malan
 My name is David Malan,
 
 5
 00:00:58,542 --> 00:01:01,630
-在座的你如果在想
+在座的你 如果在想
 and if you are among those in the room who are thinking,
 
 6
 00:01:01,631 --> 00:01:03,795
-我怎么会在计算机科学的课上
+我怎么会出现在计算机课上
 why am I in a class of computer science,
 
 7
 00:01:03,796 --> 00:01:06,359
-你要知道 我也是这么想的
+你要知道 我当时也是这么想的
 realize that I too felt that exact same way.
 
 8
 00:01:06,360 --> 00:01:08,739
-其实我大一的时候 还没有勇气
+其实 我大一的时候 都没有勇气
 In fact, my freshman year, I didn't quite get up the nerve
 
 9
 00:01:08,740 --> 00:01:11,323
-选这门课 或者其他计算机科学的课
+来选这门课 或者其他计算机科学的课
 to take this class or computer science more generally,
 
 10
 00:01:11,324 --> 00:01:13,929
-很大程度上是因为我被吓怕了
+很大程度上 这是因为我被吓怕了
 and that was largely because I was intimidated by it.
 
 11
@@ -55,7 +55,7 @@ I was a little nervous.
 
 12
 00:01:15,204 --> 00:01:17,017
-这远远超出了我的舒适区
+我感觉这远超出了我的舒适区
 It felt well out of my comfort zone.
 
 13
@@ -65,52 +65,55 @@ And I really didn't know at the end of the day what it actually was.
 
 14
 00:01:20,441 --> 00:01:22,832
-但你要知道 假如你也有这种感觉
+但你要知道 如果你也有这种感觉
 But realize if you, too, are feeling a little bit of that,
 
 15
 00:01:22,833 --> 00:01:24,562
-或者说你之前接触过计算机科学或编程
+或者 即使你有一定基础
+【问题】more comfortable 译为有基础？
 or even if you're among those more comfortable
 
 16
 00:01:24,563 --> 00:01:26,773
-现在感觉还可以
+已经接触过计算机科学或编程
 who have dabbled in computer science or programming,
 
 17
 00:01:26,774 --> 00:01:29,720
-你都要知道 我们还可以填补很多的空白
+你要意识到 在这个过程中 我们还有很多可以填补的空缺 
 realize that there's so many blanks that we can fill in along the way
 
 18
 00:01:29,721 --> 00:01:31,289
 所以最后到了学期末
+【问题】so that 怎么译
 so that ultimately, at the end of the semester,
 
 19
 00:01:31,290 --> 00:01:34,795
-大家都会觉得彼此步调是一致的
+每个人都会觉得彼此步调是一致的
+【问题】feel on the same page 怎么译
 everyone will feel themselves on the same page.
 
 20
 00:01:34,796 --> 00:01:38,515
-在那之前 你们放心
+并且在此之前 你们放心
 And until then, rest assured that 68% of the people
 
 21
 00:01:38,516 --> 00:01:41,297
-你前后左右这些座位上有68%的人
+坐在你前后左右的人里 有68%的人
 sitting to your left and to your right and behind and in front
 
 22
 00:01:41,298 --> 00:01:44,301
-从没上过计算机科学的课
+从没上过计算机课
 have never taken a CS course before,
 
 23
 00:01:44,302 --> 00:01:47,571
-你很可能就是他们之中的一个
+你很可能就是他们中的一个
 which may very well be the demographic into which you fit.
 
 24
@@ -120,17 +123,17 @@ But realize, too, that with such an amazing support structure
 
 25
 00:01:51,353 --> 00:01:54,472
-安排了这么多办公时间 板块 材料等等
+安排了这么多答疑时间 板块 课程材料等等
 with so many office hours and sections and materials and beyond,
 
 26
 00:01:54,473 --> 00:01:56,751
-这门课到头来最重要的
+到头来 这门课中最重要的
 realize that what's ultimately important in this course
 
 27
 00:01:56,752 --> 00:02:00,701
-不是最后第10周时你和同班同学相比是什么水平
+不是到了第10周 也就是期末周的时候 你和同班同学相比是什么水平
 is not so much where you end up relative to your classmates in week 10,
 
 28
